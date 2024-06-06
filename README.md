@@ -1,4 +1,8 @@
-## Hi there 👋
+# Apps in developmnent
+
+| <img src="https://github.com/giovanischiar/fridgnet/blob/main/readme-res/ic_launcher.svg" width="100" height="100"> | <img src="https://github.com/giovanischiar/mo-channel/blob/main/readme-res/banner.png" width="177.78" height="100"> | <img src="https://github.com/giovanischiar/rule-of-three-wearos/blob/main/readme-res/ic_launcher.svg" width="100" height="100"> | <img src="https://github.com/giovanischiar/bluversation-ios/blob/main/readme-res/ic_launcher.svg" width="100" height="100"> | <img src="https://github.com/giovanischiar/pokechart/blob/main/readme-res/ic_launcher.svg" width="100" height="100"> |
+|:-:|:-:|:-:|:-:|:-:|
+| [Fridgnet]("https://github.com/giovanischiar/fridgnet") | [MoChannel]("https://github.com/giovanischiar/mochannel") | [Rule of 3](https://github.com/giovanischiar/rule-of-three-wearos) | [Bluversation](https://github.com/giovanischiar/bluversation) | [Pokechart]("https://github.com/giovanischiar/bluversation") |
 
 <!--
 **giovanischiar/giovanischiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
