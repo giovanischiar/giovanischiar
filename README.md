@@ -8,7 +8,7 @@ Participate on my <a href="https://github.com/giovanischiar/rule-of-three-wearos
 
 Here's the steps in order to test:
 
-- Have a watch with Wear OS installed;
+- Have a watch with Android Wear OS;
 - Participate on this <a href="https://groups.google.com/g/rule-of-3-wear-os-testers">google group</a>;
 - Now you can have access on my app by clicking on <a href="https://play.google.com/apps/testing/io.schiar.ruleofthree/">this link</a> and click on "BECOME A TESTER";
 - After becoming a tester you can access my app's page in order to install the app;
